@@ -11,3 +11,7 @@ nav {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+button {
+margin-left: 55%;
+background-color: blue;
+}
