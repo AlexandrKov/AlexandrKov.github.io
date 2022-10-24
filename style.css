@@ -2,10 +2,10 @@ body {
     width: 100%;
     margin: 30px;
     padding: 30px;
-    background-color: aquamarine;
     background-image: url(bg.jpg);
+    background-repeat: no-repeat;
 }
 
 form {
-    background-color: blue;
+
 }
