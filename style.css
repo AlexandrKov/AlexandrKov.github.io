@@ -4,3 +4,6 @@ body {
     background-image: url(bg.jpg);
     background-repeat: no-repeat;
 }
+.title {
+padding-left: 50%;
+}
