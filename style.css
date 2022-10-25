@@ -19,8 +19,10 @@ margin-top: 50px;
 background-color: rgb(7, 118, 209);
 }
 .up {
-    width: 150px;
-    height: 70px;
+    height: 40px;
+}
+.upp {
+    height: 40px;
 }
 .line {
     text-align: justify;
